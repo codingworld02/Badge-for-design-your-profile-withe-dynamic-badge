@@ -1,6 +1,19 @@
-# Badges4-README.md-Profile-Dynamic
+<h1 align='center'>
+  Welcome! Design your profile withe dynamic badge
+</h1>
 
-Improve your README.md profile with these amazing badges.
+<p align='center'> 
+  Improve your README.md profile with these amazing dynamic badges.
+</p>
+
+
+<p align='center'>
+  <a href="#">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/codingworld02/Badge-for-design-your-profile-withe-dynamic-badge?style=flat">
+</a>&nbsp;&nbsp;
+</p>
+<br />
+
 ## How to use?
 
 1. Get a URL
